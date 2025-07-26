@@ -1,0 +1,1 @@
+This folder contains all the design documentations and manuals
